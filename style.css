@@ -1,0 +1,37 @@
+.ui.three.item.menu{
+  background-color: black;
+  margin:0px;
+  padding:0px;
+
+}
+.ui.mid.grid{
+  background-color: black;
+  margin:0px;
+  padding:0px;
+
+}
+.ui.mid.grid{
+  font-style: italic;
+  font-size: 18px;
+}
+.ui.container{
+  color: white;
+}
+
+.ui.fluid.centered.image{
+  border:none;
+  float:top;
+  margin:0px;
+  padding:0px;
+
+}
+
+.list{
+  color:orange;
+}
+.border.three.wide.column{
+  border-bottom: black;
+  border: black;
+
+  box-sizing: border-box;
+}
